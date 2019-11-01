@@ -70,7 +70,10 @@ a:hover, a:active {
   line-height: 22px;
   margin: 0 0 5px;
 }
-
+.contact_container{
+  padding-bottom: 0px !important;
+  border-bottom: 0px !important;
+}
 
 .feature .feature-box .feature-content {
   float: left;
