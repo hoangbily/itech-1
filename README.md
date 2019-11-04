@@ -11,5 +11,6 @@ Instructions to run the website and download the source code.
  + Open the folder "Document" --> click "InstallationGuide.pdf"
   
    ( Or click on the link: https://github.com/hoanganhbily/itech/blob/master/Document/InstallationGuide.pdf )
+ + Link test: https://hoanganhbily.github.io/itech/ 
  
  Thanks for watching and we look forward to receiving review from you!
